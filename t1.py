@@ -13,4 +13,5 @@ def clean(input_file1, input_file2,output):
 
 #clean("respondent_contact.csv","respondent_other.csv","respondent_cleaned.csv")
 print("test2-v2")
-giprint('b2-t1')
+print('b2-t1')
+print("b1分支")
